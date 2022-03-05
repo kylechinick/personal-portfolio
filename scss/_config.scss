@@ -1,0 +1,57 @@
+// SOLID COLORS
+
+$main-color: #197bbd;
+$main-color--dark: #146297;
+$main-color--max-dark: #0f4971;
+
+$light-color: #f3f8fb;
+$light-color--dark: #c7dfef;
+$light-color--max-dark: #9cc6e2;
+
+$dark-color: #041825;
+$dark-color--light: #0a314b;
+
+// OPACITY COLORS
+
+$main-color--dark--op-25: rgba(20, 98, 151, 0.25);
+$main-color--max-dark--op-25: rgba(15, 73, 113, 0.25);
+
+$light-color--op-9: rgba(243, 248, 251, 0.9);
+
+$dark-color--op-5: rgba(4, 24, 37, 0.5);
+$dark-color--op-75: rgba(4, 24, 37, 0.75);
+$dark-color--op-9: rgba(4, 24, 37, 0.9);
+
+// FONT FAMILIES
+
+$heading-font: 'Archivo Black', sans-serif;
+$body-font: 'Fira Sans', sans-serif;
+$mono-font: 'Smooch Sans', sans-serif;
+$logo-font: 'Fira Sans', sans-serif;
+
+// FONT SIZES
+
+$font-size--ludicrous: clamp(8rem, 20vw, 12rem);
+$font-size--h1: clamp(4.2rem, 16vw, 8rem);
+// $font-size--h1-large: 6rem;
+// $font-size--h1-small: 4rem
+$font-size--h2: 3rem;
+$font-size--h3: 2rem;
+$font-size--h4: 1.5rem;
+$font-size--h5: 1rem;
+$font-size--h6: 0.75rem;
+
+// OBJECT SIZES & SHAPES
+
+$max-website-width: 87rem;
+$primary-content-width: 61rem;
+$mobile-width: 34rem;
+$border-width--primary: 1px;
+
+$border-radius--primary: 4px;
+
+// DURATIONS
+
+$duration-short: 0.25s;
+// $duration-medium: 1s;
+// $duration-long: 3s;

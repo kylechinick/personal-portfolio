@@ -134,6 +134,10 @@ html {
   display: none !important;
 }
 
+.section-1 {
+  margin-top: 4rem;
+}
+
 .footer {
   display: flex;
   align-items: flex-end;
@@ -248,13 +252,12 @@ html {
   font-size: clamp(4.2rem, 16vw, 8rem);
   letter-spacing: 0.2rem;
   font-family: "Archivo Black", sans-serif;
-  margin-top: 4rem;
 }
 .section__hero-title--ludicrous {
-  font-size: clamp(8rem, 20vw, 12rem);
+  font-size: clamp(10rem, 20vw, 14rem);
 }
 .section__hero-title--reasonable {
-  font-size: 3rem;
+  font-size: clamp(2.5rem, 10vw, 4rem);
 }
 .section__hero-title__accent-letter {
   font-family: inherit;

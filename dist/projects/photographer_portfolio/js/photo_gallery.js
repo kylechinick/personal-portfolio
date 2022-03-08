@@ -881,13 +881,13 @@ const openInLightbox = photo => {
               );
 
               const curImgSrc = featuredImage.currentSrc;
-              curImgSrc.slice(21);
+              curImgSrc.slice(40);
 
               if (!localStorage.length) {
                 const currentCart = [];
                 const cartPhoto = {
                   photo: `${pathNameCleaner(featuredImage.currentSrc)}`,
-                  source: `${curImgSrc.slice(21)}`,
+                  source: `${curImgSrc.slice(40)}`,
                   size: `${printSizeSelectionItem.value}`,
                   finish: `${printFinishSelectionItem.value}`,
                   quantity: 1

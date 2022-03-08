@@ -1069,18 +1069,19 @@ jsonPhotoMapRequest.onreadystatechange = function () {
       currentGallery = photosMap.filter(d => d.keywords.includes(galleryKey));
     };
 
-    const currentPage = location.href.replace(location.hash, '');
-    switch (currentPage) {
-      case 'https://www.kylechinick.com/projects/photographer_portfolio/the_wild.html':
+    const currentPage = document.querySelector('h1');
+
+    switch (currentPage.id) {
+      case 'the_wild':
         currentGalleryAssignment('wild');
         break;
-      case 'https://www.kylechinick.com/projects/photographer_portfolio/landscapes.html':
+      case 'landscapes':
         currentGalleryAssignment('Landscapes');
         break;
-      case 'https://www.kylechinick.com/projects/photographer_portfolio/structures.html':
+      case 'structures':
         currentGalleryAssignment('Structures');
         break;
-      case 'https://www.kylechinick.com/projects/photographer_portfolio/tests.html':
+      case 'tests':
         currentGalleryAssignment('wild');
         break;
       default:

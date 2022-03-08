@@ -105,7 +105,7 @@ const loadMainMenu = () => {
   const currentCart = JSON.parse(localStorage.getItem('allCartItemsArr'));
   const shoppingCartLink = document.querySelector('.fa-shopping-cart');
 
-  if (!currentCart == null) {
+  if (currentCart && currentCart.length > 0) {
     shoppingCartLink.classList.add('active-cart');
   }
   // ---   ---   ---

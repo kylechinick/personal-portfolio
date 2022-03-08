@@ -1071,16 +1071,16 @@ jsonPhotoMapRequest.onreadystatechange = function () {
 
     const currentPage = location.href.replace(location.hash, '');
     switch (currentPage) {
-      case 'http://127.0.0.1:5501/dist/projects/photographer_portfolio/the_wild.html':
+      case 'https://www.kylechinick.com/projects/photographer_portfolio/the_wild.html':
         currentGalleryAssignment('wild');
         break;
-      case 'http://127.0.0.1:5501/dist/projects/photographer_portfolio/landscapes.html':
+      case 'https://www.kylechinick.com/projects/photographer_portfolio/landscapes.html':
         currentGalleryAssignment('Landscapes');
         break;
-      case 'http://127.0.0.1:5501/dist/projects/photographer_portfolio/structures.html':
+      case 'https://www.kylechinick.com/projects/photographer_portfolio/structures.html':
         currentGalleryAssignment('Structures');
         break;
-      case 'http://127.0.0.1:5501/dist/projects/photographer_portfolio/tests.html':
+      case 'https://www.kylechinick.com/projects/photographer_portfolio/tests.html':
         currentGalleryAssignment('wild');
         break;
       default:

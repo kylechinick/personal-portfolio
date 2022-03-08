@@ -470,9 +470,14 @@ const loadFooter = () => {
             value="New Signup for In-Focus Fridays Newsletter"
           />
           <input
+          type="hidden"
+          name="_autoresponse"
+          value="Thanks for signing up! To prevent any confusion: please remember that the newsletter signup form you submited is strictly part of a demonstration project so your email address has not been saved to any email lists. After the production version of the official website launches in the near future we welcome you to visit and enjoy the completed non-demo version of each project the website contains."
+        />
+          <input
             type="hidden"
             name="_next"
-            value="http://127.0.0.1:5500./newsletter_success.html"
+            value="https://www.kylechinick.com/projects/photographer_portfolio/newsletter_success.html"
           />
           <input type="hidden" name="_template" value="table" />
           <input

@@ -128,7 +128,6 @@ const loadMainMenu = () => {
             class="menu-field__input input--dark"
           />
           <button
-            type="submit"
             class="menu-field__icon menu-field__icon--button"
           >
             <i class="fas fa-arrow-right icon--light"></i>

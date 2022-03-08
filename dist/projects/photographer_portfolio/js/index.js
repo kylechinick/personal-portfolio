@@ -107,6 +107,7 @@ const loadMainMenu = () => {
 
   if (localStorage.allCartItemsArr && localStorage.allCartItemsArr.length > 2) {
     shoppingCartLink.classList.add('active-cart');
+    console.log('active cart');
   }
   // ---   ---   ---
   // LOAD MOBILE MENU NAV

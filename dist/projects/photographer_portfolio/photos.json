@@ -1,0 +1,810 @@
+{
+  "photos": [
+    {
+      "filepath": "./resources/img/gallery/all/Columbia Gorge-368.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Columbia Gorge-368.jpg",
+      "keywords": ["Columbia River Gorge", "Waterfalls", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Maryhill-22.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Maryhill-22.jpg",
+      "keywords": ["Eastern Oregon", "Landscapes"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-28.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-28.jpg",
+      "keywords": [
+        "Eastern Washington",
+        "Landscapes",
+        "Palouse Falls",
+        "Waterfalls"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-1535.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-1535.jpg",
+      "keywords": ["Birds", "Eagle", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-662.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-662.jpg",
+      "keywords": ["Birds", "Eagle", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Forest Grove Fern Hill-76.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Forest Grove Fern Hill-76.jpg",
+      "keywords": ["Birds", "Fern Hill", "Heron", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-613.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-613.jpg",
+      "keywords": [
+        "Eastern Washington",
+        "Landscapes",
+        "Palouse",
+        "Rural Landscape",
+        "Wheat"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Portland Oregon-164.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Portland Oregon-164.jpg",
+      "keywords": [
+        "Fall Color",
+        "Japanese Garden",
+        "Landscapes",
+        "Oregon",
+        "Washington Park"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Astoria Oregon-112.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Astoria Oregon-112.jpg",
+      "keywords": [
+        "Astoria Megler Bridge",
+        "Bridges",
+        "Columbia River",
+        "Structures"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hillsboro Oregon-1452.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hillsboro Oregon-1452.jpg",
+      "keywords": ["Animals", "Birds", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-16.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-16.jpg",
+      "keywords": ["Black_White", "Eastern Washington", "Structures"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Columbia Gorge-342.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Columbia Gorge-342.jpg",
+      "keywords": ["Columbia River Gorge", "Waterfalls", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Newport Oregon-75.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Newport Oregon-75.jpg",
+      "keywords": [
+        "Landscapes",
+        "Oregon Coast",
+        "Structures",
+        "Water",
+        "Yaquina Bay Lighthouse"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Portland Oregon-50.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Portland Oregon-50.jpg",
+      "keywords": [
+        "Fall Color",
+        "Japanese Garden",
+        "Landscapes",
+        "Oregon",
+        "Washington Park"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-306.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-306.jpg",
+      "keywords": [
+        "Deschutes River",
+        "Eastern Oregon",
+        "Moody",
+        "Slow Water",
+        "Water",
+        "wild"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Portland Oregon-86.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Portland Oregon-86.jpg",
+      "keywords": [
+        "Fall Color",
+        "Japanese Garden",
+        "Landscapes",
+        "Oregon",
+        "Washington Park"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Portland Oregon-79.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Portland Oregon-79.jpg",
+      "keywords": [
+        "Fall Color",
+        "Japanese Garden",
+        "Landscapes",
+        "Oregon",
+        "Washington Park"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-173.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-173.jpg",
+      "keywords": [
+        "Eastern Washington",
+        "Palouse",
+        "Rodent",
+        "Small Animals",
+        "wild"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Lost Lake-426.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Lost Lake-426.jpg",
+      "keywords": ["Landscapes", "Lost Lake", "Mt.Hood", "Waterfalls"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-207.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-207.jpg",
+      "keywords": [
+        "Eastern Washington",
+        "Landscapes",
+        "Palouse",
+        "Rural Landscape",
+        "Wheat"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-953.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-953.jpg",
+      "keywords": ["Birds", "Eagle", "Heron", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Gold Beach-1008.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Gold Beach-1008.jpg",
+      "keywords": ["Birds", "Flamingo", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-705.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-705.jpg",
+      "keywords": ["Eastern Washington", "Landscapes", "Palouse", "Wheat"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Columbia Gorge-280.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Columbia Gorge-280.jpg",
+      "keywords": [
+        "Columbia River",
+        "Columbia River Gorge",
+        "Crown Point",
+        "Landscapes"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-1101.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-1101.jpg",
+      "keywords": ["Eastern Oregon", "Landscapes", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-248.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-248.jpg",
+      "keywords": [
+        "Eastern Washington",
+        "Landscapes",
+        "Palouse",
+        "Rural Landscape",
+        "Wheat"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Forest Grove Fern Hill-123.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Forest Grove Fern Hill-123.jpg",
+      "keywords": ["Birds", "Fern Hill", "Kingfisher", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-571.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-571.jpg",
+      "keywords": ["Animals", "Funny Friends", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Portland Oregon-36.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Portland Oregon-36.jpg",
+      "keywords": [
+        "Fall Color",
+        "Japanese Garden",
+        "Landscapes",
+        "Oregon",
+        "Washington Park"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Mt. Hood-1528.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Mt. Hood-1528.jpg",
+      "keywords": ["Birds", "Black_White", "Landscapes", "Trees", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-4.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-4.jpg",
+      "keywords": ["Black_White", "Eastern Washington", "Structures"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Maryhill-325.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Maryhill-325.jpg",
+      "keywords": ["Columbia River Gorge", "Maryhill", "Stars", "Structures"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Gold Beach-966.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Gold Beach-966.jpg",
+      "keywords": ["Birds", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-792-2.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-792-2.jpg",
+      "keywords": ["Birds", "Heron", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Portland Oregon-27.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Portland Oregon-27.jpg",
+      "keywords": ["Japanese Garden", "Landscapes", "Oregon", "Washington Park"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Gold Beach-751.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Gold Beach-751.jpg",
+      "keywords": ["Birds", "Hawks", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Lost Lake-447.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Lost Lake-447.jpg",
+      "keywords": ["Landscapes", "Lost Lake", "Mt.Hood", "Waterfalls"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-956.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-956.jpg",
+      "keywords": ["Birds", "Eagle", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-1433.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-1433.jpg",
+      "keywords": ["Birds", "Heron", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Forest Grove Fern Hill-39.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Forest Grove Fern Hill-39.jpg",
+      "keywords": ["Fern Hill", "Spider Web", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Silver Falls,Oregon-34.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Silver Falls,Oregon-34.jpg",
+      "keywords": ["Oregon", "Silver Falls", "Waterfalls", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Silver Falls,Oregon-5.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Silver Falls,Oregon-5.jpg",
+      "keywords": ["Silver Falls", "Waterfalls", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Mt. Hood-1495.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Mt. Hood-1495.jpg",
+      "keywords": ["Landscapes", "Moody", "Trees"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-136.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-136.jpg",
+      "keywords": [
+        "Eastern Washington",
+        "Landscapes",
+        "Palouse",
+        "Rural Landscape",
+        "Wheat"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Lost Lake-460.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Lost Lake-460.jpg",
+      "keywords": ["Landscapes", "Lost Lake", "Mt.Hood", "Waterfalls"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Silver Falls,Oregon-10.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Silver Falls,Oregon-10.jpg",
+      "keywords": ["Fall Color", "Oregon", "Silver Falls", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Fern Hills Wetland,Oregon-257.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Fern Hills Wetland,Oregon-257.jpg",
+      "keywords": ["Birds", "Fern Hill", "Starling", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-595.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-595.jpg",
+      "keywords": ["Birds", "Heron", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Newport Oregon-152.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Newport Oregon-152.jpg",
+      "keywords": ["Bridges", "Structures", "Water", "Yaquina Bay Bridge"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-768.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-768.jpg",
+      "keywords": ["Birds", "Eagle", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-752.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-752.jpg",
+      "keywords": [
+        "Eastern Oregon",
+        "Landscapes",
+        "Sparks Lake",
+        "Water",
+        "wild"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Portland Oregon-132.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Portland Oregon-132.jpg",
+      "keywords": [
+        "Fall Color",
+        "Japanese Garden",
+        "Landscapes",
+        "Oregon",
+        "Washington Park"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-742.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-742.jpg",
+      "keywords": ["Birds", "Eagle", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Columbia Gorge-329.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Columbia Gorge-329.jpg",
+      "keywords": ["Columbia River Gorge", "Waterfalls", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-1269.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-1269.jpg",
+      "keywords": [
+        "Crooked River",
+        "Eastern Oregon",
+        "Landscapes",
+        "Smith Rock",
+        "wild"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Newport Oregon-554.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Newport Oregon-554.jpg",
+      "keywords": ["Animals", "Fern Hill", "Nutria", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-623.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-623.jpg",
+      "keywords": ["Birds", "Heron", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Mt. Hood-1468.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Mt. Hood-1468.jpg",
+      "keywords": ["Lake", "Landscapes", "Mt.Hood", "Water", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-235.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-235.jpg",
+      "keywords": ["Deschutes River", "Slow Water", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-134.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-134.jpg",
+      "keywords": [
+        "Eastern Washington",
+        "Palouse",
+        "Rodent",
+        "Small Animals",
+        "wild"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-440.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-440.jpg",
+      "keywords": [
+        "Buildings",
+        "Eastern Washington",
+        "Landscapes",
+        "Palouse",
+        "Rural Landscape",
+        "Structures",
+        "Wind Turbines"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-543.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-543.jpg",
+      "keywords": ["Trees", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-1250.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-1250.jpg",
+      "keywords": [
+        "Crooked River",
+        "Eastern Oregon",
+        "Landscapes",
+        "Smith Rock",
+        "wild"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Maryhill-472.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Maryhill-472.jpg",
+      "keywords": ["Columbia River Gorge", "Maryhill", "Stars", "Structures"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Forest Grove Fern Hill-104.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Forest Grove Fern Hill-104.jpg",
+      "keywords": ["Birds", "Fern Hill", "Heron", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-544.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-544.jpg",
+      "keywords": ["Birds", "Eagle", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-967.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-967.jpg",
+      "keywords": [
+        "Eastern Oregon",
+        "Lake",
+        "Landscapes",
+        "Stars",
+        "Water",
+        "wild"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-746.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-746.jpg",
+      "keywords": ["Birds", "Eagle", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-1284.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-1284.jpg",
+      "keywords": [
+        "Crooked River",
+        "Eastern Oregon",
+        "Landscapes",
+        "Smith Rock",
+        "wild"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-803.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-803.jpg",
+      "keywords": ["Birds", "Eagle", "Heron", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-810.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-810.jpg",
+      "keywords": ["Eastern Oregon", "Lake", "Landscapes", "Water", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-792.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-792.jpg",
+      "keywords": ["Birds", "Heron", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-1044.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-1044.jpg",
+      "keywords": ["Eastern Oregon", "Landscapes", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-431.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-431.jpg",
+      "keywords": [
+        "Eastern Washington",
+        "Landscapes",
+        "Palouse",
+        "Rural Landscape",
+        "Wheat"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-724.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-724.jpg",
+      "keywords": ["Animals", "Funny Friends", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Mt. Hood-1541.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Mt. Hood-1541.jpg",
+      "keywords": ["Trees", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Forest Grove Fern Hill-389.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Forest Grove Fern Hill-389.jpg",
+      "keywords": ["Birds", "Heron", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-123.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-123.jpg",
+      "keywords": ["Deschutes River", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-222.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-222.jpg",
+      "keywords": [
+        "Eastern Washington",
+        "Landscapes",
+        "Palouse",
+        "Rural Landscape",
+        "Wheat"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Lost Lake-403.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Lost Lake-403.jpg",
+      "keywords": ["Landscapes", "Lost Lake", "Mt.Hood", "Waterfalls"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hillsboro-1077.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hillsboro-1077.jpg",
+      "keywords": ["Birds", "Fern Hill", "Funny Friends", "Robin", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-296.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-296.jpg",
+      "keywords": [
+        "Deschutes River",
+        "Eastern Oregon",
+        "Moody",
+        "Slow Water",
+        "Water",
+        "wild"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-626.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-626.jpg",
+      "keywords": [
+        "Black_White",
+        "Eastern Washington",
+        "Landscapes",
+        "Palouse",
+        "Rural Landscape",
+        "Structures",
+        "Wind Mill"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Astoria Oregon-125.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Astoria Oregon-125.jpg",
+      "keywords": [
+        "Astoria Megler Bridge",
+        "Bridges",
+        "Columbia River",
+        "Structures"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-22.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-22.jpg",
+      "keywords": [
+        "Eastern Washington",
+        "Landscapes",
+        "Rural Landscape",
+        "Wheat"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-683.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-683.jpg",
+      "keywords": ["Birds", "Eagle", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hillsboro Oregon-185.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hillsboro Oregon-185.jpg",
+      "keywords": ["Roses", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Portland Oregon-191.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Portland Oregon-191.jpg",
+      "keywords": [
+        "Fall Color",
+        "Japanese Garden",
+        "Landscapes",
+        "Oregon",
+        "Washington Park"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-736.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-736.jpg",
+      "keywords": [
+        "Eastern Oregon",
+        "Landscapes",
+        "Sparks Lake",
+        "Water",
+        "wild"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Portland Oregon-142.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Portland Oregon-142.jpg",
+      "keywords": ["Cheetah", "Zoo", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-635.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-635.jpg",
+      "keywords": ["Eastern Washington", "Landscapes", "Palouse", "Wheat"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Silver Falls,Oregon-49.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Silver Falls,Oregon-49.jpg",
+      "keywords": ["Oregon", "Silver Falls", "Waterfalls", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-535.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-535.jpg",
+      "keywords": ["Animals", "Funny Friends", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Portland Oregon-157.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Portland Oregon-157.jpg",
+      "keywords": ["Lion", "Zoo", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-1026.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-1026.jpg",
+      "keywords": ["Eastern Oregon", "Landscapes", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-232.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-232.jpg",
+      "keywords": [
+        "Eastern Washington",
+        "Landscapes",
+        "Palouse",
+        "Rural Landscape",
+        "Wheat"
+      ]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Hoods Canal-684.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Hoods Canal-684.jpg",
+      "keywords": ["Birds", "Eagle", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Bend Oregon-1184.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Bend Oregon-1184.jpg",
+      "keywords": ["Eastern Oregon", "Landscapes", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Mt. Hood-1431.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Mt. Hood-1431.jpg",
+      "keywords": ["Lake", "Landscapes", "Mt.Hood", "Water", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Mt. Hood-1425.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Mt. Hood-1425.jpg",
+      "keywords": ["Landscapes", "Trees", "wild"]
+    },
+    {
+      "filepath": "./resources/img/gallery/all/Palouse-186.jpg",
+      "path": "./resources/img/gallery/all",
+      "filename": "Palouse-186.jpg",
+      "keywords": [
+        "Eastern Washington",
+        "Landscapes",
+        "Palouse",
+        "Rural Landscape",
+        "Wheat"
+      ]
+    }
+  ]
+}

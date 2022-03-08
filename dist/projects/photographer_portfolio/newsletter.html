@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Montserrat:wght@700;900&family=Roboto:wght@400;700&display=swap"
+      rel="stylesheet"
+    />
+    <script
+      src="https://kit.fontawesome.com/1367be5149.js"
+      crossorigin="anonymous"
+    ></script>
+    <link rel="stylesheet" href="./css/main.css" />
+    <title>Newsletter Signup - Steve's Focus</title>
+    <link
+      rel="shortcut icon"
+      type="image/jpg"
+      href="./resources/assets/camerafav.png"
+    />
+  </head>
+  <body>
+    <div class="scroll-marker"></div>
+    <header>
+      <nav></nav>
+    </header>
+
+    <main
+      class="standalone-section standalone-section__background--newsletter standalone-section__fill-window"
+    >
+      <h1 class="standalone-section__header standalone-section__header--light">
+        The In-Focus Fridays Newsletter
+      </h1>
+      <p
+        class="standalone-section__subheader standalone-section__subheader--light"
+      >
+        Sign up for my weekly newsletter to receive my favorite photography
+        tips, tricks and content &#8211; in focus, every Friday
+      </p>
+
+      <form action="https://formsubmit.co/kylechinick@gmail.com" method="POST">
+        <input
+          type="hidden"
+          name="_subject"
+          value="New Signup for In-Focus Fridays Newsletter"
+        />
+        <input
+          type="hidden"
+          name="_next"
+          value="http://127.0.0.1:5500/dist/newsletter_success.html"
+        />
+        <input type="hidden" name="_template" value="table" />
+        <input
+          class="input input--dark"
+          type="email"
+          name="email"
+          id="email"
+          placeholder="Email address"
+          required
+        />
+        <button type="submit" class="button button--accent">Subscribe</button>
+      </form>
+    </main>
+
+    <script src="./js/index.js"></script>
+  </body>
+</html>

@@ -43,7 +43,7 @@ const populateCart = () => {
   // ---   ---   ---
   // CHECK FOR CART ITEMS
   // ---   ---   ---
-  if (!currentCart.length || currentCart == null || currentCart == undefined) {
+  if (!currentCart) {
     // ---   ---   ---
     // EMPTY CART MESSAGE
     // ---   ---   ---

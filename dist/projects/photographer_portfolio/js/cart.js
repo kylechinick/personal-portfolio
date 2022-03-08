@@ -32,14 +32,6 @@ const resetCartContent = () => {
 const populateCart = () => {
   const cartSummaryBlock = document.querySelector('.cart-summary');
 
-  // const shoppingCartLink = document.querySelector('.fa-shopping-cart');
-
-  // if (!currentCart == null) {
-  //   shoppingCartLink.classList.add('active-cart');
-  // } else {
-  //   shoppingCartLink.classList.remove('active-cart');
-  // }
-
   // ---   ---   ---
   // CHECK FOR CART ITEMS
   // ---   ---   ---

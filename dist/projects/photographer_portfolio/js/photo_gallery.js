@@ -881,13 +881,13 @@ const openInLightbox = photo => {
               );
 
               const curImgSrc = featuredImage.currentSrc;
-              curImgSrc.slice(40);
+              curImgSrc.slice(79);
 
               if (!localStorage.length) {
                 const currentCart = [];
                 const cartPhoto = {
                   photo: `${pathNameCleaner(featuredImage.currentSrc)}`,
-                  source: `${curImgSrc.slice(40)}`,
+                  source: `${curImgSrc.slice(79)}`,
                   size: `${printSizeSelectionItem.value}`,
                   finish: `${printFinishSelectionItem.value}`,
                   quantity: 1
@@ -906,7 +906,7 @@ const openInLightbox = photo => {
 
                 const cartPhoto = {
                   photo: `${pathNameCleaner(featuredImage.currentSrc)}`,
-                  source: `${curImgSrc.slice(40)}`,
+                  source: `${curImgSrc.slice(79)}`,
                   size: `${printSizeSelectionItem.value}`,
                   finish: `${printFinishSelectionItem.value}`,
                   quantity: 1

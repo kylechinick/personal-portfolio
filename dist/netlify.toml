@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/projects/photographer_portfolio/*"
+  to = "./oops.html"
+  status = 404

@@ -43,7 +43,7 @@ const populateCart = () => {
   // ---   ---   ---
   // CHECK FOR CART ITEMS
   // ---   ---   ---
-  if (!currentCart) {
+  if (!currentCart || !currentCart.length) {
     // ---   ---   ---
     // EMPTY CART MESSAGE
     // ---   ---   ---
@@ -125,7 +125,7 @@ const populateCart = () => {
     checkoutPrompt.classList.add('checkout-prompt');
     checkoutPrompt.innerHTML = `
       <p class="checkout-prompt__subtotal">
-        Cart Subtotal (3 items):
+        Cart Subtotal (${currentCart.length} items):
         <span class="checkout-prompt__subtotal--cost">$</span>
       </p>
       <a href="./demo_end.html" class="button button--accent checkout-button">

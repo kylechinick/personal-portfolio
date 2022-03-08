@@ -117,11 +117,13 @@ const loadMainMenu = () => {
   mobileNav.id = 'mobile-menu--expanded';
   mobileNav.classList.add('hidden');
   mobileNav.innerHTML = `
-  <form action="POST" class="mobile-menu-search__form">
+  <form 
+    action="./demo_end.html"
+    method="GET" 
+    class="mobile-menu-search__form">
         <div class="mobile-menu-search__field">
           <input
-          action="./demo_end.html"
-            method="GET"
+          
             type="text"
             name="photo-search"
             placeholder="Search photos"

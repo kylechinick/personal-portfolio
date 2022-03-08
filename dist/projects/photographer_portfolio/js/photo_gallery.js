@@ -906,7 +906,7 @@ const openInLightbox = photo => {
 
                 const cartPhoto = {
                   photo: `${pathNameCleaner(featuredImage.currentSrc)}`,
-                  source: `${curImgSrc.slice(21)}`,
+                  source: `${curImgSrc.slice(40)}`,
                   size: `${printSizeSelectionItem.value}`,
                   finish: `${printFinishSelectionItem.value}`,
                   quantity: 1

@@ -1,3 +1,7 @@
+window.onload = document
+  .querySelector('.logo__c')
+  .classList.add('logo-animation');
+
 const projectCards = document.querySelectorAll(
   '.project-card .learn-more-button'
 );

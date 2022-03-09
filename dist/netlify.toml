@@ -2,3 +2,8 @@
   from = "/projects/photographer_portfolio/*"
   to = "/projects/photographer_portfolio/oops"
   status = 404
+
+[[redirects]]
+  from = "/#*"
+  to = "/404"
+  status = 404

@@ -75,6 +75,7 @@ const populateCart = () => {
         <img
           class="item-summary__image"
           src="${currentCart[cartIndex].source}"
+          draggable="false"
           alt=""
         />
         <table class="item-summary__description">

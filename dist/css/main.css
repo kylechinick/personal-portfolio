@@ -159,6 +159,7 @@ html {
   margin: 0 auto;
   background: rgba(4, 24, 37, 0.9);
   backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
   box-shadow: 0 0 4px #041825;
 }
 

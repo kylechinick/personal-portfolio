@@ -1,4 +1,3 @@
-// const body = document.querySelector('body');
 const filterButton = document.querySelector('.filter-button');
 const filterButtonInputs = [
   ...document.querySelectorAll('.filter-section__button__input')

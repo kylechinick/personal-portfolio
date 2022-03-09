@@ -15,6 +15,7 @@ const pathNameCleaner = path => {
   return path
     .replace(spaceCharCode, '_')
     .replace(' ', '_')
+    .replace(',', '_')
     .split('\\')
     .pop()
     .split('/')

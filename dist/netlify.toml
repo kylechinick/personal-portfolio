@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/projects/photographer_portfolio/*"
-  to = "/oops"
+  to = "/projects/photographer_portfolio/oops"
   status = 404

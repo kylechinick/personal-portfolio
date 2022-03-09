@@ -40,6 +40,9 @@ const updateActivePhotosArr = () => {
     (activeArrPhoto, index) =>
       (activeArrPhoto.dataset.galleryIndex = `${index}`)
   );
+  activePhotosArr.forEach(
+    (activeArrPhoto, index) => (activeArrPhoto.draggable = false)
+  );
 };
 
 const refreshCurrentThumbnailsArr = () => {
@@ -135,6 +138,7 @@ const openInLightbox = photo => {
         );
       }
       thumbnailImage.src = activePhotosArr[thumbnailIndex].src;
+      thumbnailImage.draggable = false;
       thumbnailImage.dataset.galleryIndex =
         activePhotosArr[thumbnailIndex].dataset.galleryIndex;
       thumbnailStrip.insertAdjacentElement('beforeend', thumbnailImage);
@@ -1105,6 +1109,7 @@ jsonPhotoMapRequest.onreadystatechange = function () {
 
       photo.src = currentGallery[i].filepath;
       photo.loading = 'lazy';
+      photo.draggable = 'false';
       photo.classList.add('gallery-collection__image');
 
       const photoKeywords = currentGallery[i].keywords;

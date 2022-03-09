@@ -4,6 +4,18 @@ const nav = document.querySelector('nav');
 let allLocalStorage = window.localStorage;
 
 // ---   ---   ---
+// DISABLE CONTEXTMENU TO DETER IMAGE DOWNLOADS
+// ---   ---   ---
+
+document.addEventListener(
+  'contextmenu',
+  function (e) {
+    e.preventDefault();
+  },
+  false
+);
+
+// ---   ---   ---
 // LOAD MAIN MENU NAV
 // ---   ---   ---
 

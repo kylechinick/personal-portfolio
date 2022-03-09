@@ -82,6 +82,7 @@ const openInLightbox = photo => {
         <p class="close-button__content">X</p>
       </div>
       <img
+        draggable="false"
         class="lightbox__featured-image"
         src="${activePhotosArr[clickedPhotoIndex].src}"
         alt=""

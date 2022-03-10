@@ -195,28 +195,44 @@ html {
   height: 64px;
   padding: 0 0.5rem;
   font-size: 48px;
+  font-weight: 700;
   font-family: "Fira Sans", sans-serif;
   color: inherit;
 }
 .logo__k {
   position: relative;
-  font-weight: 700;
 }
 .logo__c {
   position: absolute;
   display: none;
   top: 0px;
   left: 2px;
-  font-weight: 400;
   opacity: 0;
 }
 
-.logo-animation {
+.logo-animation-k {
   display: block;
-  animation: 1.5s forwards ease-out ani_logo;
+  animation: 1.2s forwards ease-in-out ani_logo_k;
 }
 
-@keyframes ani_logo {
+@keyframes ani_logo_k {
+  0% {
+    transform: scale(-1, 1);
+    opacity: 0;
+  }
+  50% {
+    opacity: 1;
+  }
+  100% {
+    transform: scale(1, 1);
+  }
+}
+.logo-animation-c {
+  display: block;
+  animation: 1.2s forwards ease-in-out ani_logo_c;
+}
+
+@keyframes ani_logo_c {
   0% {
     transform: rotate(180deg);
     left: 20px;
@@ -229,6 +245,7 @@ html {
     transform: rotate(0deg);
     left: 2px;
     opacity: 0.6;
+    font-weight: 400;
   }
 }
 .section {

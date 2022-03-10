@@ -1,6 +1,10 @@
 window.onload = document
   .querySelector('.logo__c')
-  .classList.add('logo-animation');
+  .classList.add('logo-animation-c');
+
+window.onload = document
+  .querySelector('.logo__k')
+  .classList.add('logo-animation-k');
 
 const projectCards = document.querySelectorAll(
   '.project-card .learn-more-button'

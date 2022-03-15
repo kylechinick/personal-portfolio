@@ -475,7 +475,7 @@ const loadFooter = () => {
           Recieve a concise collection of photography tips every Friday.
         </p>
         <form
-          action="https://formsubmit.co/kylechinick@gmail.com"
+          action="https://formsubmit.co/demo@kylechinick.com"
           method="POST"
         >
           <input
